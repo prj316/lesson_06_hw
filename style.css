@@ -19,6 +19,9 @@ body{
   justify-content: flex-end;
   flex-wrap: wrap;
 }
+img {
+  width: 100%;
+}
 
 a {
   text-decoration: none;
